@@ -1,2 +1,2 @@
-# Currency_Predictor
+# Currency_Prediction
  

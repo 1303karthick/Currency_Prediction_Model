@@ -16,10 +16,10 @@ Demo :
 
 ![](i3.jpeg)
 
-![](i4.jpeg)
+![](i4.jpg)
 
-![](i5.jpeg)
+![](i5.jpg)
 
-![](i6.jpeg)
+![](i6.jpg)
 
 
